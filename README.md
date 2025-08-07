@@ -15,6 +15,7 @@ A responsive front-end clone of the YouTube Premium landing page, built using HT
 
 ## 📸 Screenshot
 
+<img width="1920" height="3452" alt="FULL IMAGE" src="https://github.com/user-attachments/assets/4ecb9ecd-37b6-420d-9a69-fae45b9c583a" />
 
 
 ## 🛠️ Technologies Used
